@@ -14,7 +14,7 @@ I think that a sane way is to just clone this repo and then:
     ln -s ~/dotvim ~/.vim
     ln -s ~/dotvim/vimrc ~/.vimrc
 
-After that, open vim and launch the vundler installer:
+After that, open vim and launch the vundle installer:
     
     :BundleInstall
 
